@@ -1,0 +1,10 @@
+.header{
+text-align: center;
+background: goldenrod;
+height: 70px;
+padding-top: 1px;
+border: 2px solid lightgreen;
+border-bottom-color: rgb(14, 216, 206);
+border-radius: 10px;
+    
+}
